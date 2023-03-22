@@ -1,12 +1,12 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Kelin Tang's Resume
 ---
 # Brigham Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="tan20011@byui.edu">tan20011@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -16,8 +16,8 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2021-2025`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
 
@@ -26,6 +26,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - 4.0 Major GPA
 
+## Skills 
 
 ## Related Experience
 
